@@ -30,4 +30,4 @@ Transformed the user experience of a news reading app using Material Design prin
 
 
 
-<img src="https://user-images.githubusercontent.com/10702944/28750778-a0002e5c-74a9-11e7-9843-b305d6bdeb20.gif" height="500"/><t/> <img src="https://user-images.githubusercontent.com/10702944/28750785-af024962-74a9-11e7-9c9f-300d69e2809f.gif" height="500"/>
+<img src="https://user-images.githubusercontent.com/10702944/28756329-1243c8f8-7521-11e7-9a05-a25a4dd77256.gif" height="500"/><t/> <img src="https://user-images.githubusercontent.com/10702944/28756330-1255a5c8-7521-11e7-9df4-ad8188d72f04.gif" height="500"/> <img src="https://user-images.githubusercontent.com/10702944/28756332-127dd084-7521-11e7-8831-2613eb3e7029.gif" height="500"/>  <img src="https://user-images.githubusercontent.com/10702944/28756331-125729f2-7521-11e7-9398-1748d9eccba9.gif" height="500"/>
