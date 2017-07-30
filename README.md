@@ -10,7 +10,7 @@ Transformed the user experience of a news reading app using Material Design prin
 
 
 
-= Project Specification
+# Project Specification
 
 - App uses the Design Support library and its provided widget types (FloatingActionButton, AppBarLayout, SnackBar, etc).
 - App uses CoordinatorLayout for the main Activity.
