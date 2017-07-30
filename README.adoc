@@ -24,7 +24,7 @@ Transformed the user experience of a news reading app using Material Design prin
 - App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
 
 
-![](https://user-images.githubusercontent.com/10702944/28750778-a0002e5c-74a9-11e7-9843-b305d6bdeb20.gif)
+![1](https://user-images.githubusercontent.com/10702944/28750778-a0002e5c-74a9-11e7-9843-b305d6bdeb20.gif)
 
 
 ![](https://user-images.githubusercontent.com/10702944/28750785-af024962-74a9-11e7-9c9f-300d69e2809f.gif)
